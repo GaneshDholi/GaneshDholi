@@ -3,6 +3,7 @@ Intern at DITANBIZ INDIA PRIVATE LIMITED | Cybersecurity Aficionado | Lifelong L
 
 🔐 Expertise in:
 
+
 **Cybersecurity: Malware analysis, ethical hacking, vulnerability assessment, penetration testing (VAPT), and secure web application development.
 
 **Programming: Proficient in C++, Python, and Bash scripting for automation and security tool development.
