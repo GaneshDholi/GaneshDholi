@@ -1,28 +1,81 @@
-🌐 Cybersecurity Analyst | Proficient in Malware Analysis & Ethical Hacking | Aspiring DevOps Engineer
-Intern at DITANBIZ INDIA PRIVATE LIMITED | Cybersecurity Aficionado | Lifelong Learner
+# Hi 👋 I'm Ganesh Dholi
 
-🔐 Expertise in:
+I’m a developer who enjoys building real, usable products.
 
+Most of my work is around **full-stack web development (MERN)**, Firebase, and cloud-based tools.  
+I like taking ideas from scratch — designing the UI, writing the backend, connecting the database, and deploying it properly.
 
-**Cybersecurity: Malware analysis, ethical hacking, vulnerability assessment, penetration testing (VAPT), and secure web application development.
+I study **Cyber Security**, which helps me think about security while coding, but my main focus is **development, systems, and product building**.
 
-**Programming: Proficient in C++, Python, and Bash scripting for automation and security tool development.
+---
 
-**Web Development: Building secure, responsive, and efficient web applications with a focus on OWASP guidelines.
+## 🛠️ Tech Stack
 
-🌟 Expanding Horizons:
-Currently exploring and mastering DevOps tools and methodologies, including Docker, Kubernetes, 
-Git, Jenkins, and CI/CD pipelines, to integrate security seamlessly into the development lifecycle.
+### Frontend
+- HTML, CSS, JavaScript (ES6+)
+- React.js
+- Responsive & component-based UI
 
-🎯 Core Skills:
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication & authorization
 
-Security hardening and threat mitigation strategies.
-Malware research and reverse engineering.
-Infrastructure automation and secure deployment using DevOps practices.
-💻 Passionate About:
+### Database & Cloud
+- MongoDB
+- Firebase (Auth, Firestore, Storage)
+- AWS S3 (basic)
 
-Bridging the gap between development and security.
-Building secure, scalable infrastructure for modern applications.
-Staying ahead in the ever-evolving field of cybersecurity and DevOps.
+### Tools & Other Skills
+- Git & GitHub
+- Vercel / cloud deployments
+- Secure coding practices (OWASP-aware)
+- JSON-driven dynamic systems
 
-🌍 Motto: "Stay curious, stay secure!"
+---
+
+## 🚀 Projects
+
+- **Biodata & Wedding Card Generator**  
+  Dynamic template system using Firebase and HTML-to-PDF rendering.
+
+- **Photo Sharing & Media Applications**  
+  Cloud-based apps with authentication and optimized UI flows.
+
+- **Task Manager & Productivity Tools**  
+  Focused on usability, performance, and clean design.
+
+- **RFID-Based Jewellery Management System**  
+  Real-world software solution with hardware-aware logic.
+
+- **Mood-Based Music Player (AI-assisted)**  
+  Full-stack app exploring recommendations and user experience.
+
+---
+
+## 🧠 How I Work
+
+- I prefer **clean and readable code**
+- I focus on **building and shipping**, not just planning
+- I care about **UI, performance, and security**
+- I learn best by **building real projects**
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced MERN architecture
+- Cloud-native application design
+- Desktop apps using Tauri / Electron
+- AI-assisted tools for developers
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/ganeshdholi
+
+---
+
+> **Build real things. Learn deeply. Improve every day.**
